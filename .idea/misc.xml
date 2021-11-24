@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/activity_pdf.xml" value="0.19927536231884058" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/activity_splash_screen.xml" value="0.20199275362318841" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/activity_sub1.xml" value="0.19927536231884058" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/activity_unit1.xml" value="0.21014492753623187" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/fragment_accessories.xml" value="0.20199275362318841" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/fragment_home.xml" value="0.20199275362318841" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/fragment_laptop.xml" value="0.20199275362318841" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/fragment_mobile.xml" value="0.20199275362318841" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/fragment_pdf.xml" value="0.19927536231884058" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/fragment_sub1.xml" value="0.17798913043478262" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/fragment_sub2.xml" value="0.17798913043478262" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/fragment_sub3.xml" value="0.21014492753623187" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/fragment_sub4.xml" value="0.21014492753623187" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/fragment_sub5.xml" value="0.16485507246376813" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/fragment_tablets.xml" value="0.20199275362318841" />
+        <entry key="..\:/myandroidproject/app/src/main/res/layout/mylayou.xml" value="0.1875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
